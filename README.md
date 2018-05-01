@@ -1,1 +1,1 @@
-# hackerrank
+# Resolutions from hackerrank questions
