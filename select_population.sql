@@ -1,0 +1,5 @@
+
+SELECT ID, NAME, COUNTRYCODE, DISTRICT, POPULATION /*We can use here the command SELECT * instead */
+  FROM City
+ WHERE COUNTRYCODE = 'USA'
+   AND POPULATION > 100000;
